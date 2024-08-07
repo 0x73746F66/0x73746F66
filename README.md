@@ -7,7 +7,7 @@ You may know me as Chris Langton
 
 Here are some things to know about my coding:
 
-- 🔭 I’m currently working on [Vulnetix](https://gitlab.com/0x73746F66/vulnetix/)
+- 🔭 I’m currently working on [Vulnetix](https://github.com/0x73746F66/vulnetix/)
 - 🌱 I’m currently learning how to be successful as a start-up Founder (open to meet Co-Founders)
 - 👯 I’m looking to collaborate on [Exploit and Vulnerability Research](mailto:chris@trivialsec.com)
 - 🤔 I’m looking for help with [Marketing by commission](mailto:chris@trivialsec.com)
