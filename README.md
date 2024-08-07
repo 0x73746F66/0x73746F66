@@ -7,13 +7,11 @@ You may know me as Chris Langton
 
 Here are some things to know about my coding:
 
-- 🔭 I’m currently working on [Trivial Security](https://gitlab.com/trivialsec)
-- 🌱 I’m currently learning how to be successful as a bootstrapped SaaS start-up
-- 👯 I’m looking to collaborate on [Cybersecurity Research](mailto:chris@trivialsec.com)
-- 🤔 I’m looking for help with [Front-end coding](mailto:chris@trivialsec.com)
-- 💬 Ask me about Node.js, Python, Golang, PHP, Machine Learning, AWS, Secure Coding, DevSecOps, Kubernetes, and all things Linux
-- 📫 How to reach me: [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.langton.cloud/)
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/chrisdlangton/)
+- 🔭 I’m currently working on [Vulnetix](https://gitlab.com/0x73746F66/vulnetix/)
+- 🌱 I’m currently learning how to be successful as a start-up Founder (open to meet Co-Founders)
+- 👯 I’m looking to collaborate on [Exploit and Vulnerability Research](mailto:chris@trivialsec.com)
+- 🤔 I’m looking for help with [Marketing by commission](mailto:chris@trivialsec.com)
+- 💬 Ask me about Node.js, Python, Golang, Machine Learning, AWS, Secure Coding, DevSecOps, Kubernetes, and all things Linux
 
 ### ⚡ Fun fact
 
