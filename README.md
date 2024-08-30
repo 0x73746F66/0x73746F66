@@ -2,16 +2,20 @@
 
 You may know me as Chris Langton
 
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/chrisdlangton)
-[![GitLab](https://badgen.net/badge/icon/gitlab?icon=gitlab&label)](https://https://gitlab.com/chrislangton/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x73746F66&show_icons=true&theme=dracula&size_weight=0.5&count_weight=1&hide=css,handlebars,html,hcl)](https://github.com/0x73746F66)
+
+[![Stof's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x73746F66&show_icons=true&theme=dracula)](https://github.com/0x73746F66)
 
 Here are some things to know about my coding:
 
-- 🔭 I’m currently working on [Vulnetix](https://github.com/0x73746F66/vulnetix/)
-- 🌱 I’m currently learning how to be successful as a start-up Founder (open to meet Co-Founders)
-- 👯 I’m looking to collaborate on [Exploit and Vulnerability Research](mailto:chris@trivialsec.com)
-- 🤔 I’m looking for help with [Marketing by commission](mailto:chris@trivialsec.com)
-- 💬 Ask me about Node.js, Python, Golang, Machine Learning, AWS, Secure Coding, DevSecOps, Kubernetes, and all things Linux
+- 🔭 I’m currently working on [Vulnetix](https://github.com/vulnetix/vulnetix/)
+- 🌱 I’m currently learning how to be successful as a start-up Founder, again (open to meet Co-Founders)
+- 👯 I’m looking to collaborate on [Exploit and Vulnerability Research](mailto:chris@vulnetix.app)
+- 🤔 I’m looking for help with [Marketing by commission](mailto:chris@vulnetix.app)
+- 📝 Check out my [blog and newsletter](https://www.langton.cloud)
+- 📚 I'm a published thriller author! [Learn about my books](https://www.langton.cloud/author)
+- 🎓 I offer training and consulting services, [book my time](https://calendly.com/stof/book)
+- 💬 Ask me about Machine Learning, AWS, CloudFlare, Secure Coding, Kubernetes, and all things Linux
 
 ### ⚡ Fun fact
 
